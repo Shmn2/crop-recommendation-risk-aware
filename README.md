@@ -17,10 +17,7 @@ The system recommends crops from soil and environmental conditions:
 Kaggle Crop Recommendation Dataset:
 https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
 
-Place the CSV here:
-`data/raw/Crop_recommendation.csv`
 
-> Note: If you do not want to upload the dataset to GitHub, keep `data/raw/*.csv` in `.gitignore` and download the CSV locally.
 
 ## Setup
 ```bash
