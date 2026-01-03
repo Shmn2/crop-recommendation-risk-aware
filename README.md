@@ -59,7 +59,7 @@ python -m src.explain_lime --data data/raw/Crop_recommendation.csv --sample_id 0
 
 ## GitHub link (add after you publish)
 After pushing this repo to GitHub, paste the link here and in your paper submission:
-`https://github.com/<your-username>/crop-recommendation-risk-aware`
+`https://github.com/Shmn2/crop-recommendation-risk-aware`
 
 ## Citation
 If you use this repository, please cite the accompanying manuscript.
